@@ -5,6 +5,7 @@
 - 📫 How to reach me: E-mail: matejlisiak14@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My username is derived from Arduino and the mains frequency on my continent (Europe - 50Hz)
+- ⚡ Unpopular opinion: Rust is only a byproduct of a chemical reaction, where oxygen combines with iron
 
 <!---
 Ardurider50hz/Ardurider50hz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
